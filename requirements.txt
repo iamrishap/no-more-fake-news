@@ -1,0 +1,10 @@
+gensim==3.4.0
+keras==2.1.6
+matplotlib==2.2.2
+nltk==3.3
+numpy==1.14.3
+pandas==0.23.0
+scipy==1.1.0
+seaborn==0.8.1
+scikit_learn==0.19.1
+tqdm==4.23.4
